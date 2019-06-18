@@ -7,7 +7,7 @@ import axios from '../../src/index'
 //     msg: 'hi'
 //   }
 // })
-//
+
 // axios.request({
 //   url: '/extend/post',
 //   method: 'post',
@@ -37,7 +37,7 @@ import axios from '../../src/index'
 //     msg: 'hi'
 //   }
 // })
-//
+
 // axios('/extend/post', {
 //   method: 'post',
 //   data: {
